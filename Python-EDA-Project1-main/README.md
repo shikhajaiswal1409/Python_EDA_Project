@@ -1,4 +1,4 @@
-# Python-EDA-Project1
+# Python-EDA-Project
 ⭐ Python Data Analysis Project (EDA)
 
 📊 Just completed a fascinating data analysis project on customer behavior and shopping trends! Here's what I found:
